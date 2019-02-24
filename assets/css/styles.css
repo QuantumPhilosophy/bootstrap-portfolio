@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
+    background-image: url("../images/dark-honeycomb.png");
+    color: #BFBFBF;
+}
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0.50), rgba(255, 255, 255, 0));
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: Georgia, Times, Times New Roman, serif;
+}
+
+header {
+    background-color: #343a40;
+}
+
+main {
+    background-color: #333333;
+    border: 1px solid #404040;
+}
+
+footer {
+    background-color: #343a40;
+}
+
+img.small {
+    height: 100%;
+    width: 20%;
+}
