@@ -1,6 +1,7 @@
 body {
     font-family: Arial, Helvetica Neue, Helvetica, sans-serif;
     background-image: url("../images/dark-honeycomb.png");
+    background-color: black;
     color: #BFBFBF;
 }
 
@@ -12,6 +13,26 @@ hr {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: Georgia, Times, Times New Roman, serif;
+}
+
+a:link {
+    color: #b300b3;
+    text-decoration: none;
+}
+
+a:visited {
+    color: #b300b3;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #cc00cc;
+    text-decoration: none;
+}
+
+a:active {
+    color: #cc00cc;
+    text-decoration: none;
 }
 
 header {
